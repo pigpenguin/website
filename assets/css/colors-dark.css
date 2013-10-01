@@ -5,7 +5,7 @@ html, body {
 
 a, a:visited, a:active {
 	color: #A0EB3E; 
-	border-color: #073642;
+	border-color: #30C4C9;
 }
 
 a:hover {
@@ -15,7 +15,7 @@ a:hover {
 }
 
 h1, h2, h3 {
-	color: #cb4b16;
+	color: #F4343F;
 }
 
 h1 a, h1 a:visited, h1 a:active {
@@ -32,15 +32,16 @@ article h1 a.anchor {
 }
 
 blockquote {
-	border-color: #cb4b16;
+	border-color: #30C4C9;
 }
 
 #sidebar a:hover {
 	color: #B2FF5E;
+    border-color: #30C4C9;
 }
 
 #footer {
-	border-color: #073642;
+	border-color: #30C4C9;
 }
 
 

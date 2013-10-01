@@ -158,7 +158,9 @@ h3 {
 	padding: 2px 4px;
 }
 
-
+#sidebar a:hover{
+    border-bottom: 1px solid;
+}
 
 /*** Posts ***/
 article {
