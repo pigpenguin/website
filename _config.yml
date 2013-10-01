@@ -1,0 +1,9 @@
+name: pigpenguin
+url: http://pigpenguin.com
+description: The blog of a confused student
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

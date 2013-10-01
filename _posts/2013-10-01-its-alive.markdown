@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "It's Alive!"
+date:   2013-10-01 
+categories:  update
+---
+
+Finally after a long period of procrastination I finally got the site up and running in a way I like. Eventually this site will hopefully have some content on it but at the moment I have nothing blog worthy to put up, if things go according to plan I should have something to put up in the next week or two. Other than that I do not know what I should be putting in this post so it stops here.
