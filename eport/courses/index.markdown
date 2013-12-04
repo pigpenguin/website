@@ -7,14 +7,14 @@ title: Courses
 ---------------------------------------------------------------------------------------------
 
 * Southland Reflection
-[artifact](/eport/courses/a1)
-[reflection](/eport/courses/r1)
+[artifact](/eport/courses/a1.jpg)
+[reflection](/eport/courses/r1.pdf)
 * Successes and Failures
-[best assignment](/eport/courses/a2)
-[worst assignment](/eport/courses/a3)
-[reflection](/eport/courses/r2)
+[best assignment](/eport/courses/a2.jpg)
+[worst assignment](/eport/courses/a3.jpg)
+[reflection](/eport/courses/r2.pdf)
 * Letter to future student
 
 * College Reading Reflection
-[artifact](/eport/courses/a4)
-[reflection](/eport/courses/r3)
+[artifact](/eport/courses/a4.jpg)
+[reflection](/eport/courses/r3.pdf)
